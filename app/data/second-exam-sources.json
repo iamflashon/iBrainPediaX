@@ -1,0 +1,436 @@
+[
+  {
+    "order": 1,
+    "year": 114,
+    "subject": "憲法與行政法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=128455&iDP=65863&iS=153",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=1&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 2,
+    "year": 114,
+    "subject": "刑法與刑事訴訟法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=128456&iDP=65863&iS=125",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=1&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 3,
+    "year": 114,
+    "subject": "民法與民事訴訟法（一）",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=128457&iDP=65863&iS=1297",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=1&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 4,
+    "year": 114,
+    "subject": "民法與民事訴訟法（二）",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=128458&iDP=65863&iS=1298",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=1&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 5,
+    "year": 114,
+    "subject": "公司法、保險法與證券交易法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=128459&iDP=65863&iS=6546",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=1&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 6,
+    "year": 114,
+    "subject": "智慧財產權法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=128460&iDP=65863&iS=165",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=1&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 7,
+    "year": 114,
+    "subject": "勞動社會法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=128461&iDP=65863&iS=6505",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=1&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 8,
+    "year": 114,
+    "subject": "海商法與海洋法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=128462&iDP=65863&iS=6539",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=1&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 9,
+    "year": 113,
+    "subject": "憲法與行政法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127844&iDP=72610&iS=153",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=1&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 10,
+    "year": 113,
+    "subject": "刑法與刑事訴訟法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127845&iDP=72610&iS=125",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=1&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 11,
+    "year": 113,
+    "subject": "民法與民事訴訟法（一）",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127846&iDP=72610&iS=1297",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=1&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 12,
+    "year": 113,
+    "subject": "民法與民事訴訟法（二）",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127847&iDP=72610&iS=1298",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=1&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 13,
+    "year": 113,
+    "subject": "公司法、保險法與證券交易法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127848&iDP=72610&iS=6546",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=1&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 14,
+    "year": 113,
+    "subject": "智慧財產權法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127849&iDP=72610&iS=165",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=1&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 15,
+    "year": 113,
+    "subject": "勞動社會法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127850&iDP=72610&iS=6505",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=1&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 16,
+    "year": 113,
+    "subject": "財稅法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127851&iDP=72610&iS=330",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 17,
+    "year": 113,
+    "subject": "海商法與海洋法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127852&iDP=72610&iS=6539",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 18,
+    "year": 112,
+    "subject": "憲法與行政法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127154&iDP=71637&iS=153",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 19,
+    "year": 112,
+    "subject": "刑法與刑事訴訟法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127155&iDP=71637&iS=125",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 20,
+    "year": 112,
+    "subject": "民法與民事訴訟法（一）",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127156&iDP=71637&iS=1297",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 21,
+    "year": 112,
+    "subject": "民法與民事訴訟法（二）",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127157&iDP=71637&iS=1298",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 22,
+    "year": 112,
+    "subject": "公司法、保險法與證券交易法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127158&iDP=71637&iS=6546",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 23,
+    "year": 112,
+    "subject": "智慧財產權法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127159&iDP=71637&iS=165",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 24,
+    "year": 112,
+    "subject": "勞動社會法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127160&iDP=71637&iS=6505",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 25,
+    "year": 112,
+    "subject": "財稅法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127161&iDP=71637&iS=330",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 26,
+    "year": 112,
+    "subject": "海商法與海洋法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=127162&iDP=71637&iS=6539",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 27,
+    "year": 111,
+    "subject": "智慧財產權法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=126149&iDP=69282&iS=165",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 28,
+    "year": 111,
+    "subject": "勞動社會法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=126150&iDP=69282&iS=6505",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 29,
+    "year": 111,
+    "subject": "財稅法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=126151&iDP=69282&iS=330",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 30,
+    "year": 111,
+    "subject": "海商法與海洋法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=126152&iDP=69282&iS=6539",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=2&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 31,
+    "year": 111,
+    "subject": "民法與民事訴訟法（一）",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=126146&iDP=69282&iS=1297",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=3&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 32,
+    "year": 111,
+    "subject": "民法與民事訴訟法（二）",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=126147&iDP=69282&iS=1298",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=3&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 33,
+    "year": 111,
+    "subject": "公司法、保險法與證券交易法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=126148&iDP=69282&iS=6546",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=3&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 34,
+    "year": 111,
+    "subject": "憲法與行政法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=126144&iDP=69282&iS=153",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=3&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 35,
+    "year": 111,
+    "subject": "刑法與刑事訴訟法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=126145&iDP=69282&iS=125",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=3&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 36,
+    "year": 110,
+    "subject": "勞動社會法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=125525&iDP=58603&iS=6505",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=3&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 37,
+    "year": 110,
+    "subject": "財稅法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=125526&iDP=58603&iS=330",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=3&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 38,
+    "year": 110,
+    "subject": "海商法與海洋法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=125527&iDP=58603&iS=6539",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=3&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 39,
+    "year": 110,
+    "subject": "憲法與行政法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=125519&iDP=58603&iS=153",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=3&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 40,
+    "year": 110,
+    "subject": "刑法與刑事訴訟法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=125520&iDP=58603&iS=125",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=3&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 41,
+    "year": 110,
+    "subject": "民法與民事訴訟法（一）",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=125521&iDP=58603&iS=1297",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=3&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 42,
+    "year": 110,
+    "subject": "民法與民事訴訟法（二）",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=125522&iDP=58603&iS=1298",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=3&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 43,
+    "year": 110,
+    "subject": "公司法、保險法與證券交易法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=125523&iDP=58603&iS=6546",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=3&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 44,
+    "year": 110,
+    "subject": "智慧財產權法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=125524&iDP=58603&iS=165",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=3&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 45,
+    "year": 109,
+    "subject": "憲法與行政法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=124303&iDP=59948&iS=153",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=3&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 46,
+    "year": 109,
+    "subject": "刑法與刑事訴訟法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=124304&iDP=59948&iS=125",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=4&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 47,
+    "year": 109,
+    "subject": "民法與民事訴訟法（一）",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=124305&iDP=59948&iS=1297",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=4&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 48,
+    "year": 109,
+    "subject": "民法與民事訴訟法（二）",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=124306&iDP=59948&iS=1298",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=4&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 49,
+    "year": 109,
+    "subject": "公司法、保險法與證券交易法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=124307&iDP=59948&iS=6546",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=4&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 50,
+    "year": 109,
+    "subject": "智慧財產權法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=124308&iDP=59948&iS=165",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=4&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 51,
+    "year": 109,
+    "subject": "勞動社會法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=124309&iDP=59948&iS=6505",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=4&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 52,
+    "year": 109,
+    "subject": "財稅法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=124310&iDP=59948&iS=330",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=4&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 53,
+    "year": 109,
+    "subject": "海商法與海洋法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=124311&iDP=59948&iS=6539",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=4&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 54,
+    "year": 108,
+    "subject": "刑法與刑事訴訟法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=123592&iDP=55857&iS=125",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=4&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 55,
+    "year": 108,
+    "subject": "民法與民事訴訟法（一）",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=123593&iDP=55857&iS=1297",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=4&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 56,
+    "year": 108,
+    "subject": "民法與民事訴訟法（二）",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=123594&iDP=55857&iS=1298",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=4&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 57,
+    "year": 108,
+    "subject": "公司法、保險法與證券交易法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=123595&iDP=55857&iS=6546",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=4&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 58,
+    "year": 108,
+    "subject": "智慧財產權法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=123596&iDP=55857&iS=165",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=4&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 59,
+    "year": 108,
+    "subject": "勞動社會法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=123597&iDP=55857&iS=6505",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=4&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 60,
+    "year": 108,
+    "subject": "財稅法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=123598&iDP=55857&iS=330",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=4&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 61,
+    "year": 108,
+    "subject": "海商法與海洋法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=123599&iDP=55857&iS=6539",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=5&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  },
+  {
+    "order": 62,
+    "year": 108,
+    "subject": "憲法與行政法",
+    "pdfUrl": "https://lawyer.get.com.tw/exam/Download.ashx?iP=123591&iDP=55857&iS=153",
+    "listUrl": "https://lawyer.get.com.tw/exam/List.aspx?iPageNo=5&sFilter=%E5%BE%8B%E5%B8%AB%E3%80%81%E5%8F%B8%E6%B3%95%E5%AE%98%E7%AC%AC%E4%BA%8C%E8%A9%A6&sFilterType=0"
+  }
+]
